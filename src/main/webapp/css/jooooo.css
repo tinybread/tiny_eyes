@@ -1,0 +1,23 @@
+tr button {
+ width :90px;
+ padding: 0px;
+ margin: 0px;
+}
+.successButton {
+    width :90px;
+ padding: 0px;
+ margin: 0px;
+}
+.addApiButton{
+  
+    text-align: right;
+    padding:15px;
+}
+.registerButtonGroup{
+    width: 600px;
+   
+   
+}
+.textarea{
+    height: 150px;
+}
